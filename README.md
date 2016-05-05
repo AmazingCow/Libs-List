@@ -27,9 +27,11 @@ Thank you and enjoy :D
 
 #### List of Repos:
 
-* [AmazingBuild](https://github.com/AmazingCow-Libs/UIKitHelpers)
-* [ColorHelper_cpp](https://github.com/AmazingCow-Libs/ColorHelper_cpp)
-* [Termcolor_cpp](https://github.com/AmazingCow-Libs/Termcolor_cpp)
+* [ColorHelper_cpp](https://www.github.com/AmazingCow-Libs/ColorHelper_cpp/)
+* [cowtermcolor_py](https://www.github.com/AmazingCow-Libs/cowtermcolor_py/)
+* [libstdcow](https://www.github.com/AmazingCow-Libs/libstdcow/)
+* [Termcolor_cpp](https://www.github.com/AmazingCow-Libs/Termcolor_cpp/)
+* [UIKitHelpers](https://www.github.com/AmazingCow-Libs/UIKitHelpers/)
 
 
 <!-- ####################################################################### -->
