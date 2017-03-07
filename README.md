@@ -1,6 +1,6 @@
-# Libs List
+# AmazingCow-Libs List
 
-This is a list of all our **[Libs](https://github.com/AmazingCow-Libs)**.
+This is a list of all our **[AmazingCow-Libs](https://github.com/AmazingCow-Libs)**.
 
 <!-- ####################################################################### -->
 
@@ -27,11 +27,14 @@ Thank you and enjoy :D
 
 #### List of Repos:
 
-* [ColorHelper_cpp](https://www.github.com/AmazingCow-Libs/ColorHelper_cpp/)
-* [cowtermcolor_py](https://www.github.com/AmazingCow-Libs/cowtermcolor_py/)
-* [libstdcow](https://www.github.com/AmazingCow-Libs/libstdcow/)
-* [Termcolor_cpp](https://www.github.com/AmazingCow-Libs/Termcolor_cpp/)
-* [UIKitHelpers](https://www.github.com/AmazingCow-Libs/UIKitHelpers/)
+* [CMD](https://github.com/AmazingCow-Libs/CMD.git)
+* [ColorHelper_cpp](https://github.com/AmazingCow-Libs/ColorHelper_cpp.git)
+* [cowtermcolor_py](https://github.com/AmazingCow-Libs/cowtermcolor_py.git)
+* [libstdcow](https://github.com/AmazingCow-Libs/libstdcow.git)
+* [Termcolor_cpp](https://github.com/AmazingCow-Libs/Termcolor_cpp.git)
+* [UIKitHelpers](https://github.com/AmazingCow-Libs/UIKitHelpers.git)
+
+
 
 
 <!-- ####################################################################### -->
@@ -40,9 +43,11 @@ Thank you and enjoy :D
 
 The other AmazingCow organization pages:
 
-* [AmazingCow-Tools](https://github.com/AmazingCow-Tools)
-* [AmazingCow-Libs](https://github.com/AmazingCow-Libs)
 * [AmazingCow-Game-Core](https://github.com/AmazingCow-Game-Core)
-* [AmazingCow-Game-Tool](https://github.com/AmazingCow-Game-Tool)
 * [AmazingCow-Game-Framework](https://github.com/AmazingCow-Game-Framework)
+* [AmazingCow-Game-Tool](https://github.com/AmazingCow-Game-Tool)
 * [AmazingCow-Game](https://github.com/AmazingCow-Game)
+* [AmazingCow-Libs](https://github.com/AmazingCow-Libs)
+* [AmazingCow-Tools](https://github.com/AmazingCow-Tools)
+* [AmazingCow-Imidiar](https://github.com/AmazingCow-Imidiar)
+
