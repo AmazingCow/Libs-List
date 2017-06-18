@@ -24,6 +24,7 @@ Thank you and enjoy :D
 ## Info:
 
 #### Organization Page: [https://github.com/AmazingCow-Libs](https://github.com/AmazingCow-Libs)
+#### Trello Page: [https://trello.com/amazingcowlibs](https://trello.com/amazingcowlibs)
 
 #### List of Repos:
 
