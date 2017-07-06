@@ -34,6 +34,7 @@ Thank you and enjoy :D
 * [libstdcow](https://github.com/AmazingCow-Libs/libstdcow.git)
 * [Termcolor_cpp](https://github.com/AmazingCow-Libs/Termcolor_cpp.git)
 * [UIKitHelpers](https://github.com/AmazingCow-Libs/UIKitHelpers.git)
+* [UnityExtensions](https://github.com/AmazingCow-Libs/UnityExtensions.git)
 
 
 
