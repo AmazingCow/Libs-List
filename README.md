@@ -30,6 +30,13 @@ Thank you and enjoy :D
 
 * [CMD](https://github.com/AmazingCow-Libs/CMD.git)
 * [ColorHelper_cpp](https://github.com/AmazingCow-Libs/ColorHelper_cpp.git)
+* [CoreClock](https://github.com/AmazingCow-Libs/CoreClock.git)
+* [CoreColor](https://github.com/AmazingCow-Libs/CoreColor.git)
+* [CoreCoord](https://github.com/AmazingCow-Libs/CoreCoord.git)
+* [CoreCoord_CS](https://github.com/AmazingCow-Libs/CoreCoord_CS.git)
+* [CoreFS](https://github.com/AmazingCow-Libs/CoreFS.git)
+* [CoreGame](https://github.com/AmazingCow-Libs/CoreGame.git)
+* [CoreRandom](https://github.com/AmazingCow-Libs/CoreRandom.git)
 * [cowtermcolor_py](https://github.com/AmazingCow-Libs/cowtermcolor_py.git)
 * [libstdcow](https://github.com/AmazingCow-Libs/libstdcow.git)
 * [Termcolor_cpp](https://github.com/AmazingCow-Libs/Termcolor_cpp.git)
