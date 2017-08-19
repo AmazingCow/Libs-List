@@ -34,6 +34,7 @@ Thank you and enjoy :D
 * [CoreColor](https://github.com/AmazingCow-Libs/CoreColor.git)
 * [CoreCoord](https://github.com/AmazingCow-Libs/CoreCoord.git)
 * [CoreCoord_CS](https://github.com/AmazingCow-Libs/CoreCoord_CS.git)
+* [CoreDir](https://github.com/AmazingCow-Libs/CoreDir.git)
 * [CoreFS](https://github.com/AmazingCow-Libs/CoreFS.git)
 * [CoreGame](https://github.com/AmazingCow-Libs/CoreGame.git)
 * [CoreRandom](https://github.com/AmazingCow-Libs/CoreRandom.git)
