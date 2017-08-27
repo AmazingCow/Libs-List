@@ -40,6 +40,7 @@ Thank you and enjoy :D
 * [CoreGame](https://github.com/AmazingCow-Libs/CoreGame.git)
 * [CoreRandom](https://github.com/AmazingCow-Libs/CoreRandom.git)
 * [CoreString](https://github.com/AmazingCow-Libs/CoreString.git)
+* [CoreTime](https://github.com/AmazingCow-Libs/CoreTime.git)
 * [cowtermcolor_py](https://github.com/AmazingCow-Libs/cowtermcolor_py.git)
 * [libstdcow](https://github.com/AmazingCow-Libs/libstdcow.git)
 * [Termcolor_cpp](https://github.com/AmazingCow-Libs/Termcolor_cpp.git)
